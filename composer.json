@@ -1,0 +1,15 @@
+{
+    "name": "tecotec/amazonsns-php-sample",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tsutsumi.harunobu",
+            "email": "tsutsumi.harunobu@tecotec.co.jp"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "aws/aws-sdk-php": "3.*"
+    }
+}
